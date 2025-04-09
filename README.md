@@ -14,7 +14,7 @@ I'm a passionate developer working on a variety of web projects, especially in t
 
 - GitHub: [@muhammadakbarkomilov](https://github.com/muhammadakbarkomilov)
 - Email: info@komilov-dev.uz 
-- Telegram: [@thezumayr](https://t.me/thezumayr) *(optional)*
+- Telegram: [@thezumayr](https://t.me/thezumayr) 
 
 ---
 
