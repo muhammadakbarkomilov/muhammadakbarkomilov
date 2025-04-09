@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Muhammad Komilov
+## Hi there 👋, I'm Muhammad
 
 I'm a passionate web developer focused on creating dynamic, scalable, and user-friendly applications. I specialize in building API-powered platforms and modern websites that deliver real results.
 
