@@ -31,4 +31,4 @@ I’m not a “top-tier” developer, but I **love coding** and **building thing
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zumayr&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadakbarkomilov&show_icons=true)
