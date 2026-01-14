@@ -14,7 +14,7 @@ I’m not a “top-tier” developer, but I **love coding** and **building thing
 - 🌱 I’m currently learning **advanced Rust & system programming**
 - 👯 I’m looking to collaborate on **open source backend tools**
 - 💬 Ask me about **Rust, Python, FastAPI, Django, Docker, CI/CD**
-- 📫 How to reach me: [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Email](mailto:i@komilov.dev) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy **optimizing code and learning new technologies**
 
