@@ -5,7 +5,7 @@
 -->
 
 Hi, I’m **Muhammadakbar** 👨‍💻  
-**Backend Developer** | Rust, Python, FastAPI, Django  
+**Backend Developer** |Python, FastAPI, Django  
 
 I’m not a “top-tier” developer, but I **love coding** and **building things that work**.  
 **Speed and quality** are important to me in everything I create.  
@@ -13,7 +13,7 @@ I’m not a “top-tier” developer, but I **love coding** and **building thing
 - 🔭 I’m currently working on **backend projects and APIs**
 - 🌱 I’m currently learning **advanced Rust & system programming**
 - 👯 I’m looking to collaborate on **open source backend tools**
-- 💬 Ask me about **Rust, Python, FastAPI, Django, Docker, CI/CD**
+- 💬 Ask me about **Python, FastAPI, Django, Docker, CI/CD**
 - 📫 How to reach me: [Email](mailto:i@komilov.dev) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy **optimizing code and learning new technologies**
@@ -30,3 +30,5 @@ I’m not a “top-tier” developer, but I **love coding** and **building thing
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zumayr&show_icons=true)
