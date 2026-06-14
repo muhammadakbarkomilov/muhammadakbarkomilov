@@ -15,7 +15,6 @@ I’m not a “top-tier” developer, but I **love coding** and **building thing
 - 👯 I’m looking to collaborate on **open source backend tools**
 - 💬 Ask me about **Python, FastAPI, Django, Docker, CI/CD**
 - 📫 How to reach me: [Email](mailto:i@komilov.dev) 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy **optimizing code and learning new technologies**
 
 ---
